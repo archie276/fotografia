@@ -9,22 +9,29 @@ Le prime fotocamere in verità erano piuttosto lontane da quel concetto, si trat
 La prima grande rivoluzione fu l’invenzione del rullo Kodak, disponibile in diversi formati standardizzati adatti a diverse situazioni.
 
 ![Rullino 120](./Ottica/120.jpg "Rullino 120")
+
 ![Rullino 135](./Ottica/135Kodak.jpg "Rullino 135")
 
 
 I formati standard favorirono la costruzione di sistemi facili da usare, moderni e modulari con la possibilità di adattare e cambiare ottiche e mirini per far fronte alle situazioni fotografiche più varie. Probabilmente il limite maggiore di questi sistemi era ancora legato al concetto di "inquadratura", ovvero capire con una accettabile precisione e velocità cosa stesse vedendo la macchina, i mirini erano dei sistemi a sé, alcuni particolarmente sofisticati permettevano sia di delimitare automaticamente il campo inquadrato tramite cornici capaci di mostrare in qualche modo il “punto di vista” dell’ottica in uso, sia di assistere il fotografo nella messa a fuoco, ma continuavano a farlo "da fuori".
 
 ![Zeiss soffietto](./Ottica/Zeiss soffietto.jpg "Zeiss soffietto")
+
 ![Ikon ripiegabile](./Ottica/Ikon ripiegabile.jpg "Ikon ripiegabile")
+
 ![Zorki](./Ottica/Zorki.jpg "Zorki")
+
 ![Zeiss Ikon](./Ottica/Zeiss Ikon.jpg "Zeiss Ikon")
+
 ![Leica M2](./Ottica/Leica M2.jpg "Leica M2")
 
 Le ottiche si erano molto evolute e specializzate per abbracciare porzioni di spazio più o meno ampie. Erano comunque nati i primi sistemi fotografici.
 La successiva evoluzione fu il “concetto reflex”, venne introdotto  uno specchio tra l'ottica e la pellicola capace di inviare l'immagine inquadrata in un sofisticato e comodo mirino che finalmente permetteva di vedere in dettaglio ogni sfumatura di quello che effettivamente si stava inquadrando e fotografando, questa fu una grande conquista permessa anche dallo sviluppo di nuovi concetti ottici che finalmente portavano il "punto nodale" (ne riparleremo nei prossimi capitoli) al di fuori del barilotto contenente le lenti, quando tale punto nodale si trovava tra la lente ed il soggetto si parlava di “teleobiettivo”, quando invece il punto nodale si trovava tra le lenti e la pellicola veniva usato il termine “retrofocus” (o in ambito più tecnico parlando dello schema ottico si usava la definizione “teleobiettivo invertito” quasi a dire che si trattava dello stesso concetto semplicemente rovesciato).
 
 ![Reflex2b](./Ottica/Reflex2b.jpg "Reflex2b")
+
 ![Contarex Biogon](./Ottica/Contarex Biogon.jpg "Contarex Biogon")
+
 ![sollev. specchio](./Ottica/sollev. specchio.jpg "sollev. specchio")
 
 
@@ -33,6 +40,7 @@ Il primo: ad ogni scatto era necessario alzare, scattare e successivamente abbas
 Secondo: la camera dello specchio occupava un discreto spazio fisico che poneva grossi paletti a livello ottico per quanto riguardava le ottiche ad ampio angolo di campo. Le uniche concesse sarebbero state le "retrofocus" più complesse, meno costanti nel rendimento a distanza ravvicinata e in sostanza meno economiche.
 
 ![Biog](./Ottica/Biog.jpg "Biog")
+
 ![Distag](./Ottica/Distag.jpg "Distag")
 
 Tuttavia la grande modularità dei sistemi e la possibilità di vedere quello che la pellicola avrebbe catturato permetteva di estendere facilmente la possibilità di catturare immagini in "ambienti" non necessariamente legati alla fotografia classica. Qualunque sistema poteva facilmente essere usato accoppiato agli strumenti più disparati, telescopi, microscopi, sistemi di riproduzione e qualsiasi settore in cui un'immagine aveva necessità di essere catturata; proprio in un momento storico dominato da una società globale affamata di immagini.
