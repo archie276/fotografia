@@ -14,6 +14,9 @@ Ora diamo un'occhiata all'immagine seguente, ponendo la massima attenzione ai du
 Se noi ponessimo un centro di rotazione esattamente sul punto N’ e ruotassimo la lente verticalmente (rispetto al disegno) l’immagine di AB proiettata sul sensore in A’B’ non si sposterebbe dalla sua posizione. Il punto N' è uno dei due "punti nodali" dell’ottica, quello relativo alla direzione della luce da AB verso la lente e poi di conseguenza alla sua immagine A'B'. La posizione di N' dipende dalla potenza della lente e dalla distanza tra il soggetto AB e la lente).
 La distanza (in una precisa condizione) tra il punto N' e il piano su cui si raccoglie l'immagine viene detta “lunghezza focale”, e determina l’angolo di campo di cui è capace l’ottica. In pratica è come se quello fosse un foro piccolissimo attraversato da tutti i raggi di luce raccolti dalla superficie della lente.
 
+![Punti nodali 2](./Ottica/punti&#32;nodali2.png "Punti nodali 2")
+
+
 Il punto nodale non viene geometricamente definito da niente altro che dalla potenza della lente e dalla sua distanza dal soggetto, tale distanza ha una sorta di "limite massimo" definito "infinito" raggiunto quando la distanza del soggetto è tale che i raggi proiettati verso la lente possono praticamente essere considerati paralleli. In questa precisa condizione, la distanza tra il punto nodale ed il piano che raccoglie l'immagine è quella che viene definita "lunghezza focale" dell' ottica, è piuttosto intuitivo il rapporto tra questa lunghezza e l'angolo di campo abbracciato dal sistema, data una precisa misura del "sensore" (o pellicola che sia) una lunghezza focale minore produce un angolo di visione più ampio, viceversa una lunghezza focale maggiore corrisponde ad un angolo di visione molto più stretto.
 Il fatto che N' sia dipendente dalla potenza della lente e dalla distanza dal soggetto porta a due conseguenze:
 
