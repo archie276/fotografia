@@ -15,15 +15,15 @@ La prima grande rivoluzione fu l’invenzione del rullo Kodak, disponibile in di
 
 I formati standard favorirono la costruzione di sistemi facili da usare, moderni e modulari con la possibilità di adattare e cambiare ottiche e mirini per far fronte alle situazioni fotografiche più varie. Probabilmente il limite maggiore di questi sistemi era ancora legato al concetto di "inquadratura", ovvero capire con una accettabile precisione e velocità cosa stesse vedendo la macchina, i mirini erano dei sistemi a sé, alcuni particolarmente sofisticati permettevano sia di delimitare automaticamente il campo inquadrato tramite cornici capaci di mostrare in qualche modo il “punto di vista” dell’ottica in uso, sia di assistere il fotografo nella messa a fuoco, ma continuavano a farlo "da fuori".
 
-![Zeiss soffietto](./Ottica/Zeiss soffietto.jpg "Zeiss soffietto")
+![Zeiss soffietto](./Ottica/Zeiss&#32;soffietto.jpg "Zeiss soffietto")
 
-![Ikon ripiegabile](./Ottica/Ikon ripiegabile.jpg "Ikon ripiegabile")
+![Ikon ripiegabile](./Ottica/Ikon&#32;ripiegabile.jpg "Ikon ripiegabile")
 
 ![Zorki](./Ottica/Zorki.jpg "Zorki")
 
-![Zeiss Ikon](./Ottica/Zeiss Ikon.jpg "Zeiss Ikon")
+![Zeiss Ikon](./Ottica/Zeiss&#32;Ikon.jpg "Zeiss Ikon")
 
-![Leica M2](./Ottica/Leica M2.jpg "Leica M2")
+![Leica M2](./Ottica/Leica&#32;M2.jpg "Leica M2")
 
 Le ottiche si erano molto evolute e specializzate per abbracciare porzioni di spazio più o meno ampie. Erano comunque nati i primi sistemi fotografici.
 La successiva evoluzione fu il “concetto reflex”, venne introdotto  uno specchio tra l'ottica e la pellicola capace di inviare l'immagine inquadrata in un sofisticato e comodo mirino che finalmente permetteva di vedere in dettaglio ogni sfumatura di quello che effettivamente si stava inquadrando e fotografando, questa fu una grande conquista permessa anche dallo sviluppo di nuovi concetti ottici che finalmente portavano il "punto nodale" (ne riparleremo nei prossimi capitoli) al di fuori del barilotto contenente le lenti, quando tale punto nodale si trovava tra la lente ed il soggetto si parlava di “teleobiettivo”, quando invece il punto nodale si trovava tra le lenti e la pellicola veniva usato il termine “retrofocus” (o in ambito più tecnico parlando dello schema ottico si usava la definizione “teleobiettivo invertito” quasi a dire che si trattava dello stesso concetto semplicemente rovesciato).
@@ -32,7 +32,7 @@ La successiva evoluzione fu il “concetto reflex”, venne introdotto  uno spec
 
 ![Contarex Biogon](./Ottica/Contarex Biogon.jpg "Contarex Biogon")
 
-![sollev. specchio](./Ottica/sollev. specchio.jpg "sollev. specchio")
+![sollev. specchio](./Ottica/sollev.&#32;specchio.jpg "sollev. specchio")
 
 
 Il vantaggio di poter vedere nel mirino ogni dettaglio della fotografia era tale che i pochi problemi da affrontare  divennero insignificanti.
@@ -49,7 +49,7 @@ A turbare questi equilibri arriva in un lampo la rivoluzione digitale.
 Il digitale nelle immagini era arrivato con la televisione, un fenomeno mondiale inarrestabile capace di divorare a ciclo continuo apparecchiature legate al mondo della diffusione di immagini. Paradossalmente tuttavia nonostante il digitale permeasse le stanze dei bottoni della TV in modo subdolo ed indiretto in apparecchi che lo conservavano silenziosamente al loro interno ci volle qualche anno prima che un timido dispositivo (pensato nei laboratori Kodak) facesse scoppiare la bomba.
 In gergo veniva chiamato CCD e per ora ci limitiamo a dire che disponeva di una matrice di elementi sensibili alla luce ed era capace di acquisire una immagine che poi ovviamente sarebbe stata disponibile per la restituzione in vari modi.
 
-![Primo CCD](./Ottica/Primo CCD.jpg "Primo CCD")
+![Primo CCD](./Ottica/Primo&#32;CCD.jpg "Primo CCD")
 
 Le risoluzioni in gioco relative ai primi sensori montati su una vera telecamera in commercio, paragonate alla realtà odierna del mondo di oggi fanno sorridere, si parla di 330.000 pixel, trecentotrentamila punti sensibili!!!! Possono sembrare pochi, e lo sono, ma vanno chiarite un paio di questioni, in una telecamera (di un certo livello) venivano usati 3 sensori (praticamente identici) incollati rigidamente ad un prisma divisore che in qualche modo filtrava anche la luce affidando ad ognuno una porzione dello spettro della luce visibile. Uno si occupava del rosso, uno del verde ed uno del blu nelle dovute proporzioni, in sostanza ogni immagine complessivamente poteva contare su 990000 pixel! Più o meno 1Megapixel (giusto per avere un numero più adatto alle soglie di comprensibilità odierne).
 
