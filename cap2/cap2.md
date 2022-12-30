@@ -4,42 +4,37 @@ Molto probabilmente al solo nominare una fotocamera ci si trova ad evocare l'imm
 Le prime fotocamere in verità erano piuttosto lontane da quel concetto, si trattava in sostanza di scatole in legno allungabili con un sistema di lenti piuttosto semplice da un lato e un vetro smerigliato dal lato opposto, il vetro smerigliato permetteva di inquadrare ed una lastra sensibile protetta da una custodia a tenuta di luce permetteva di raccogliere l'immagine tramite l’apertura di una saracinesca, sono sistemi usati ancora oggi (estremamente raffinati nella costruzione e anch’essi ormai digitalizzati), seppure l’immaginario collettivo tende a relegarli ai tempi romantici dell'inizio del secolo scorso.
 
 
-![Sinar](./cap2/immagini/SinarP3.jpg "Sinar")
+![Sinar](./immagini/SinarP3.jpg "Sinar")
 
 La prima grande rivoluzione fu l’invenzione del rullo Kodak, disponibile in diversi formati standardizzati adatti a diverse situazioni.
 
-![Rullino 120](./cap2/immagini/120.jpg "Rullino 120")
+![Rullino 120](./immagini/120.jpg "Rullino 120")
 
-![Rullino 135](./cap2/immagini/135Kodak.jpg "Rullino 135")
+![Rullino 135](./immagini/135Kodak.jpg "Rullino 135")
 
 
 I formati standard favorirono la costruzione di sistemi facili da usare, moderni e modulari con la possibilità di adattare e cambiare ottiche e mirini per far fronte alle situazioni fotografiche più varie. Probabilmente il limite maggiore di questi sistemi era ancora legato al concetto di "inquadratura", ovvero capire con una accettabile precisione e velocità cosa stesse vedendo la macchina, i mirini erano dei sistemi a sé, alcuni particolarmente sofisticati permettevano sia di delimitare automaticamente il campo inquadrato tramite cornici capaci di mostrare in qualche modo il “punto di vista” dell’ottica in uso, sia di assistere il fotografo nella messa a fuoco, ma continuavano a farlo "da fuori".
 
-![Zeiss soffietto](./cap2/immagini/Zeiss&#32;soffietto.jpg "Zeiss soffietto")
+![Zeiss soffietto](./immagini/Zeiss&#32;soffietto.jpg "Zeiss soffietto")
 
-![Ikon ripiegabile](./cap2/immagini/Ikon&#32;ripiegabile.jpg "Ikon ripiegabile")
+![Ikon ripiegabile](./immagini/Ikon&#32;ripiegabile.jpg "Ikon ripiegabile")
 
-![Zorki](./cap2/immagini/Zorki.jpg "Zorki")
+![Zorki](./immagini/Zorki.jpg "Zorki")
 
-![Zeiss Ikon](./cap2/immagini/Zeiss&#32;Ikon.jpg "Zeiss Ikon")
+![Zeiss Ikon](./immagini/Zeiss&#32;Ikon.jpg "Zeiss Ikon")
 
-![Leica M2](./cap2/immagini/Leica&#32;M2.jpg "Leica M2")
+![Leica M2](./immagini/Leica&#32;M2.jpg "Leica M2")
 
 Le ottiche si erano molto evolute e specializzate per abbracciare porzioni di spazio più o meno ampie. Erano comunque nati i primi sistemi fotografici.
 La successiva evoluzione fu il “concetto reflex”, venne introdotto  uno specchio tra l'ottica e la pellicola capace di inviare l'immagine inquadrata in un sofisticato e comodo mirino che finalmente permetteva di vedere in dettaglio ogni sfumatura di quello che effettivamente si stava inquadrando e fotografando, questa fu una grande conquista permessa anche dallo sviluppo di nuovi concetti ottici che finalmente portavano il "punto nodale" (ne riparleremo nei prossimi capitoli) al di fuori del barilotto contenente le lenti, quando tale punto nodale si trovava tra la lente ed il soggetto si parlava di “teleobiettivo”, quando invece il punto nodale si trovava tra le lenti e la pellicola veniva usato il termine “retrofocus” (o in ambito più tecnico parlando dello schema ottico si usava la definizione “teleobiettivo invertito” quasi a dire che si trattava dello stesso concetto semplicemente rovesciato).
 
-![Reflex2b](./cap2/immagini/Reflex2b.jpg "Reflex2b")
-
-![Contarex Biogon](./cap2/immagini/Contarex Biogon.jpg "Contarex Biogon")
-
-![sollev. specchio](./cap2/immagini/sollev.&#32;specchio.jpg "sollev. specchio")
-
+![Reflex2b](./immagini/Reflex2b.jpg "Reflex2b")
 
 Il vantaggio di poter vedere nel mirino ogni dettaglio della fotografia era tale che i pochi problemi da affrontare  divennero insignificanti.
 Il primo: ad ogni scatto era necessario alzare, scattare e successivamente abbassare lo specchio, operazioni che con il tempo poi si sono automatizzate, questo si traduce in una discreta complessità meccanica aggiunta, in più portava rumore e vibrazioni e queste ultime in fotografia non sono mai gradite.
 Secondo: la camera dello specchio occupava un discreto spazio fisico che poneva grossi paletti a livello ottico per quanto riguarda le ottiche ad ampio angolo di campo. Le uniche concesse sarebbero state le "retrofocus" più complesse, meno costanti nel rendimento a distanza ravvicinata e in sostanza meno economiche.
 
-![retrofocus-grandangolo](./cap2/immagini/M_Cavina_Zeiss.jpg "retrofocus-grandangolo")
+![retrofocus-grandangolo](./immagini/M_Cavina_Zeiss.jpg "retrofocus-grandangolo")
 *Le due immagini mostrano due ottiche grandangolari in cui lunghezza focale e luminosità sono simili, “retrofocus” quella sopra, classico schema grandangolare a base simmetrica quella sotto, risultano evidenti le differenze costruttive, le dimensioni delle singole lenti gli ingombri e non ultimo lo spazio lasciato a disposizione per lo specchio reflex.
 https://www.nocsensei.com/camera/tecnica/marco-cavina/marcocavina/veb-carl-zeiss-jena-flektogon-20mm-14/*
 
@@ -50,11 +45,11 @@ A turbare questi equilibri arriva in un lampo la rivoluzione digitale.
 Il digitale nelle immagini era arrivato con la televisione, un fenomeno mondiale inarrestabile capace di divorare a ciclo continuo apparecchiature legate al mondo della diffusione di immagini. Paradossalmente tuttavia nonostante il digitale permeasse le stanze dei bottoni della TV in modo subdolo ed indiretto in apparecchi che lo conservavano silenziosamente al loro interno ci volle qualche anno prima che un timido dispositivo (pensato nei laboratori Kodak) facesse scoppiare la bomba.
 In gergo veniva chiamato CCD e per ora ci limitiamo a dire che disponeva di una matrice di elementi sensibili alla luce ed era capace di acquisire una immagine che poi ovviamente sarebbe stata disponibile per la restituzione in vari modi.
 
-![Primo CCD](./cap2/immagini/Primo&#32;CCD.jpg "Primo CCD")
+![Primo CCD](./immagini/Primo&#32;CCD.jpg "Primo CCD")
 
 Le risoluzioni in gioco relative ai primi sensori montati su una vera telecamera in commercio, paragonate alla realtà odierna del mondo di oggi fanno sorridere, si parla di 330.000 pixel, trecentotrentamila punti sensibili!!!! Possono sembrare pochi, e lo sono, ma vanno chiarite un paio di questioni, in una telecamera (di un certo livello) venivano usati 3 sensori (praticamente identici) incollati rigidamente ad un prisma divisore che in qualche modo filtrava anche la luce affidando ad ognuno una porzione dello spettro della luce visibile. Uno si occupava del rosso, uno del verde ed uno del blu nelle dovute proporzioni, in sostanza ogni immagine complessivamente poteva contare su 990000 pixel! Più o meno 1Megapixel (giusto per avere un numero più adatto alle soglie di comprensibilità odierne).
 
-![3CCD](./cap2/immagini/3CCD.png "3CCD")
+![3CCD](./immagini/3CCD.png "3CCD")
 
 Va detto che tutto questo era relativo ad immagini destinate alla televisione che da parte sua aveva precisi limiti di risoluzione insiti nel sistema, va anche detto che passarono meno di 2 anni per il primo salto di qualità che vedeva i medesimi sensori già cresciuti a 470.000 pixel,  (senza scomodarsi a giocare con i numeri si tratta di un ragguardevole +30% relativo a macchine di ampia diffusione già sul mercato).
 I sensori di immagine furono uno dei settori soggetti a maggiori investimenti negli anni 90, i processi di produzione erano appannaggio di aziende che si occupavano di semiconduttori e di pellicole fotografiche, queste ultime pur apparentemente lontane dal mondo dei semiconduttori avevano in alcuni processi di produzione (drogaggi dei materiali) delle insospettabili similitudini, tuttavia ovviamente i produttori di semiconduttori pur non disponendo delle straordinarie competenze specifiche di una Kodak o Fuij nel settore del trattamento delle immagini e della colorimetria in pochi anni si sarebbero trovati a godere di una forza industriale e produttiva tale da essere praticamente senza concorrenti.
