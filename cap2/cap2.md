@@ -8,7 +8,7 @@ Le prime fotocamere in verità erano piuttosto lontane da quel concetto, si trat
 
 La prima grande rivoluzione fu l’invenzione del rullo Kodak, disponibile in diversi formati standardizzati adatti a diverse situazioni.
 
-![Rullino 120](./immagini/120.jpg "Rullino 120")
+![Rullino 120](./immagini/Pellicola120.jpg "Rullino 120")
 
 ![Rullino 135](./immagini/135Kodak.jpg "Rullino 135")
 
@@ -35,6 +35,7 @@ Il primo: ad ogni scatto era necessario alzare, scattare e successivamente abbas
 Secondo: la camera dello specchio occupava un discreto spazio fisico che poneva grossi paletti a livello ottico per quanto riguarda le ottiche ad ampio angolo di campo. Le uniche concesse sarebbero state le "retrofocus" più complesse, meno costanti nel rendimento a distanza ravvicinata e in sostanza meno economiche.
 
 ![retrofocus-grandangolo](./immagini/M_Cavina_Zeiss.jpg "retrofocus-grandangolo")
+
 *Le due immagini mostrano due ottiche grandangolari in cui lunghezza focale e luminosità sono simili, “retrofocus” quella sopra, classico schema grandangolare a base simmetrica quella sotto, risultano evidenti le differenze costruttive, le dimensioni delle singole lenti gli ingombri e non ultimo lo spazio lasciato a disposizione per lo specchio reflex.
 https://www.nocsensei.com/camera/tecnica/marco-cavina/marcocavina/veb-carl-zeiss-jena-flektogon-20mm-14/*
 
