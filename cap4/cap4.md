@@ -33,11 +33,12 @@ In pratica un CCD non “legge la luce che lo colpisce” in senso assoluto, leg
 Il punto a favore del CCD era la qualità dell’immagine fornita, si trattava comunque di un dispositivo elettronico complesso in cui già solo l’essere "acceso" avrebbe portato nell'immagine una certa percentuale di rumore, ma il colpo di genio di leggere la differenza di cariche permetteva all’immagine letta di esserne in qualche modo "immune" almeno fin quando la quantità di luce fosse stata significativa.
 I punti a sfavore erano la complessità del dispositivo, una certa lentezza, la necessità di oscurarlo durante il trasferimento delle cariche e (ma questa sarebbe stata poi ridotta con lo sviluppo) una percentuale sensibile troppo piccola rispetto all’intero pixel. Una prima soluzione a questo ultimo problema la portò la Sony mettendo una piccolissima lente avanti ad ogni pixel e sfruttando praticamente quasi tutta la superficie del pixel.
 
--------- TODO QUI CI VA UN'IMMAGINE -----------------
+![CCDSHAD](./immagini/1CCDSHAD.jpg "CCDSHAD")
 
 Il guadagno in luminosità fu nettissimo e qualcuno pensò di sfruttare questa tecnologia anche per compensare la perdita di luminosità ai bordi con raggi molto inclinati.
 
 -------- TODO QUI CI VA UN'IMMAGINE -----------------
+![Microlenti Leica](./immagini/2MicrolentiLeica.png "Microlenti Leica")
 
 Personalmente considero ancora questa cosa una totale idiozia, posizionare una lente sopra un pixel largo come “il capello di un pidocchio di zanzara” potrebbe già essere “un tantino” complicato, figuriamoci organizzarsi in modo che ogni singola lente possa risultare via via sempre più disassata per cercare di compensare l’angolazione di un raggio di luce che poi cambiando ottica sarebbe diversa comunque. Però è giusto citarla perché quella cosa andò effettivamente in produzione e quella macchina fu una assoluta totale costosissima porcheria; la peggior cosa con su scritto Leica mai pensata e prodotta da mente umana. Considerando che neanche dieci anni prima la Leitz (proprietaria del marchio Leica) deteneva da sola circa il 40% dei brevetti (mondiali) sui processi di produzione dei vetri ottici qualcosa doveva essere successo, qualcosa di mostruosamente grande.
 Parallelamente al CCD si facevano strada altri dispositivi strutturalmente meno complessi, i CMOS.
@@ -51,6 +52,9 @@ Tuttavia un nuovo difetto era alle porte il famigerato "effetto tapparella” al
 -------- TODO QUI CI VA UN'IMMAGINE -----------------
 -------- TODO QUI CI VA UN'IMMAGINE -----------------
 -------- TODO QUI CI VA UN'IMMAGINE -----------------
+![Rolling Shutter](./immagini/3RollingShutter.jpg "Rolling Shutter")
+![Rolling Shutter 2](./immagini/4RollingShutter2.jpg "Rolling Shutter 2")
+![Rolling Shutter 3](./immagini/5RollingShutter3.jpg "Rolling Shutter 3")
 
 Quello che succede è che comunque devono essere trasferiti diversi milioni di pixel ad un cervello che li elabora e ad un supporto, e non è possibile usare un filo per ogni pixel, sono flussi di dati in cui le uscite da ogni pixel devono “mettersi in fila per raggiungere il cervellone” solo che per quando è arrivato il segnale del millesimo pixel al primo la situazione è già cambiata completamente.
 Oggi si parla di “Sensori Stacked” in pratica si tratta di una pila sovrapposta di strati funzionali, non ci sono colli di bottiglia, i dati passano simultaneamente al cervellone che li elabora e li rende disponibili.
@@ -61,6 +65,7 @@ Oggi si parla di “Sensori Stacked” in pratica si tratta di una pila sovrappo
 La restituzione del colore in un sensore elettronico diventa un tantino complessa, sulle prime telecamere professionali come abbiamo accennato nel cap2 la questione veniva risolta alla radice usando tre sensori incollati con precisione su un prisma ottico capace di “dividere” in tre fasci separati l’immagine raccolta dall’ottica. Ogni sensore si occupava di un terzo della banda visibile, Uno per il rosso, uno per il verde e uno per il blu, tuttavia la presenza del prisma divisore sarebbe stata ancor più ingombrante di uno specchio reflex, e viste le misure dei formati fotografici anche molto pesante per cui alla fin fine impraticabile
 
 -------- TODO QUI CI VA UN'IMMAGINE -----------------
+![Prisma Divisore](./immagini/6PrismaDivisore.png "Prisma Divisore")
 
 Sono state percorse due strade, la prima, quella più diffusa è la “matrice bayer” (dal nome dell’ingegnere che pensò tale soluzione) la seconda (brevetto “Foveon” oggi di proprietà Sigma) quella di costruire un chip a strati sovrapposti in cui ognuno si occupa di una porzione della banda.
 Alcuni costruttori hanno scelto delle varianti, tipo Fuij con la XTrans, che come la matrice Bayer delega al processore delle funzioni di interpolazione necessarie.
@@ -68,6 +73,8 @@ Entrambi i sistemi hanno come sempre vantaggi e svantaggi.
 
 -------- TODO QUI CI VA UN'IMMAGINE -----------------
 -------- TODO QUI CI VA UN'IMMAGINE -----------------
+![Bayer](./immagini/7Bayer.png "Bayer")
+![Foveon](./immagini/8Foveon.jpg "Foveon")
 
 Il problema di fondo è come si sceglie di trattare il colore, paradossalmente in TV dove il prisma divisore  avrebbe permesso di disporre di tre immagini a piena risoluzione, una per ogni banda di colore, questa “abbondanza” non viene sfruttata in quanto il sistema televisivo per una serie di scelte tecniche è costituito da 3 segnali impacchettati insieme, il primo è una immagine a piena risoluzione in bianco nero, il secondo ed il terzo sono due segnali che trasportano le informazioni di colore della banda del rosso e del blu, questi due segnali sono perà a “banda dimezzata” non sono capaci di leggere i dettagli finissimi del segnale bianco nero, la banda del verde viene derivata per “sottrazione” dai segnali disponibili. Il nome di tale configurazione è YUV.
 In fotografia poter disporre di segnali a piena risoluzione per ogni colore permetterebbe una notevolissima qualità, per cui il sistema Foveon sembrerebbe partire favorito, tuttavia lo sviluppo di sistemi complessi come i sensori di immagine necessita di una smisurata quantità di risorse tecniche e finanziarie, e poter sviluppare in proprio un sistema del genere non è affatto semplice, specie quando come ora la concorrenza è capace di continui cambi generazionali. Il sistema Bayer è al momento il più usato, ma necessita di un complesso trattamento a valle del sensore  capace di restituire dopo le dovute interpolazioni un'immagine di qualità nelle tre bande di colore.
