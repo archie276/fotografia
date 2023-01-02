@@ -37,7 +37,6 @@ I punti a sfavore erano la complessità del dispositivo, una certa lentezza, la 
 
 Il guadagno in luminosità fu nettissimo e qualcuno pensò di sfruttare questa tecnologia anche per compensare la perdita di luminosità ai bordi con raggi molto inclinati.
 
--------- TODO QUI CI VA UN'IMMAGINE -----------------
 ![Microlenti Leica](./immagini/2MicrolentiLeica.png "Microlenti Leica")
 
 Personalmente considero ancora questa cosa una totale idiozia, posizionare una lente sopra un pixel largo come “il capello di un pidocchio di zanzara” potrebbe già essere “un tantino” complicato, figuriamoci organizzarsi in modo che ogni singola lente possa risultare via via sempre più disassata per cercare di compensare l’angolazione di un raggio di luce che poi cambiando ottica sarebbe diversa comunque. Però è giusto citarla perché quella cosa andò effettivamente in produzione e quella macchina fu una assoluta totale costosissima porcheria; la peggior cosa con su scritto Leica mai pensata e prodotta da mente umana. Considerando che neanche dieci anni prima la Leitz (proprietaria del marchio Leica) deteneva da sola circa il 40% dei brevetti (mondiali) sui processi di produzione dei vetri ottici qualcosa doveva essere successo, qualcosa di mostruosamente grande.
@@ -49,9 +48,6 @@ Lo sviluppo subì un'impennata tale che in pochissimi anni si era già alla terz
 Nell’ambiente fotografico si trattò di una rivoluzione totale che in pratica portò alla fusione dei “vecchi mondi” sempre separati di cinema e fotografia che per essere compresa del tutto avrebbe avuto bisogno di qualche tempo.         
 Tuttavia un nuovo difetto era alle porte il famigerato "effetto tapparella” al secolo “Rolling Shutter”
 
--------- TODO QUI CI VA UN'IMMAGINE -----------------
--------- TODO QUI CI VA UN'IMMAGINE -----------------
--------- TODO QUI CI VA UN'IMMAGINE -----------------
 ![Rolling Shutter](./immagini/3RollingShutter.jpg "Rolling Shutter")
 ![Rolling Shutter 2](./immagini/4RollingShutter2.jpg "Rolling Shutter 2")
 ![Rolling Shutter 3](./immagini/5RollingShutter3.jpg "Rolling Shutter 3")
@@ -64,15 +60,12 @@ Oggi si parla di “Sensori Stacked” in pratica si tratta di una pila sovrappo
 
 La restituzione del colore in un sensore elettronico diventa un tantino complessa, sulle prime telecamere professionali come abbiamo accennato nel cap2 la questione veniva risolta alla radice usando tre sensori incollati con precisione su un prisma ottico capace di “dividere” in tre fasci separati l’immagine raccolta dall’ottica. Ogni sensore si occupava di un terzo della banda visibile, Uno per il rosso, uno per il verde e uno per il blu, tuttavia la presenza del prisma divisore sarebbe stata ancor più ingombrante di uno specchio reflex, e viste le misure dei formati fotografici anche molto pesante per cui alla fin fine impraticabile
 
--------- TODO QUI CI VA UN'IMMAGINE -----------------
 ![Prisma Divisore](./immagini/6PrismaDivisore.png "Prisma Divisore")
 
 Sono state percorse due strade, la prima, quella più diffusa è la “matrice bayer” (dal nome dell’ingegnere che pensò tale soluzione) la seconda (brevetto “Foveon” oggi di proprietà Sigma) quella di costruire un chip a strati sovrapposti in cui ognuno si occupa di una porzione della banda.
 Alcuni costruttori hanno scelto delle varianti, tipo Fuij con la XTrans, che come la matrice Bayer delega al processore delle funzioni di interpolazione necessarie.
 Entrambi i sistemi hanno come sempre vantaggi e svantaggi.
 
--------- TODO QUI CI VA UN'IMMAGINE -----------------
--------- TODO QUI CI VA UN'IMMAGINE -----------------
 ![Bayer](./immagini/7Bayer.png "Bayer")
 ![Foveon](./immagini/8Foveon.jpg "Foveon")
 
