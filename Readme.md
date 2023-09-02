@@ -9,3 +9,7 @@
 [Elementi sensibili](./cap4/cap4.md)
 
 [Sistemi di illuminazione](./cap5/cap5.md)
+
+[Scatto o acquisizione?](./cap6/cap6.md)
+
+[Controllo della nitidezza e dell'esposizione](./cap7/cap7.md)
