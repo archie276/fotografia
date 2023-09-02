@@ -12,4 +12,4 @@
 
 [Scatto o acquisizione?](./cap6/cap6.md)
 
-[Scatto o acquisizione?](./cap7/cap7.md)
+[Controllo della nitidezza e dell'esposizione](./cap7/cap7.md)
